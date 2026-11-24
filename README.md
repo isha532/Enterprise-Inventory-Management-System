@@ -145,3 +145,13 @@ python -m pytest -v
 **Isha Raut**
 
 GitHub: https://github.com/isha532
+
+## Application Screenshots
+
+### Dashboard
+
+![Inventory Management Dashboard](docs/screenshots/dashboard.png)
+
+### Products & Stock Management
+
+![Products and Stock Management](docs/screenshots/products-stock-management.png)
