@@ -150,7 +150,7 @@ GitHub: https://github.com/isha532
 
 ### Dashboard
 
-![Inventory Management Dashboard](docs/screenshots/dashboard.png)
+![Inventory Management Dashboard](docs/screenshots/dashboards.png)
 
 ### Products & Stock Management
 
